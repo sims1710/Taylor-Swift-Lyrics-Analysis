@@ -1,6 +1,7 @@
 # Taylor-Swift-Lyrics-Analysis
 
 **Description:**
+
 This Python code analyzes Taylor Swift's lyrics by exploring her references to 'midnight' and expanding the search to track her references to day, night, and time in general. The sentiment analysis is used to study her tone and vibe over her career. The final goal is to determine if she writes more favorably about day or night.
 
 **Usage:**
